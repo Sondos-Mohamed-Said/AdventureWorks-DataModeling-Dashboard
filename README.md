@@ -11,7 +11,7 @@ It provides insights into sales performance, product categories, territories, sa
 - **Interactive Filters**: Category, Territory, and Time filters for detailed analysis.  
 
 ## 📊 Dashboard Preview
-![Adventure Works Dashboard](./images/adventure-works-dashboard.png)
+![Adventure Works Dashboard](./adventure-works-dashboard.png)
 
 ## 🗂 Data Model
 A **Star Schema** was implemented in Power BI:  
@@ -19,7 +19,7 @@ A **Star Schema** was implemented in Power BI:
 - **Dimension Tables**: Product, Status, Territory, Date, ShipMethod, SalesPerson.  
 - **Calculated Measures**: Orders, Total Due, Freight, Quantity.  
 
-![Adventure Works Data Model](./images/adventure-works-data-model.png)
+![Adventure Works Data Model](./dventure-works-data-model.png)
 
 ## 🔑 Insights
 - **Accessories** are the leading category (~19.5K orders).  
