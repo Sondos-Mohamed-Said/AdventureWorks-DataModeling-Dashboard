@@ -19,7 +19,7 @@ A **Star Schema** was implemented in Power BI:
 - **Dimension Tables**: Product, Status, Territory, Date, ShipMethod, SalesPerson.  
 - **Calculated Measures**: Orders, Total Due, Freight, Quantity.  
 
-![Adventure Works Data Model](./dventure-works-data-model.png)
+![Adventure Works Data Model](./adventure-works-data-model.png)
 
 ## 🔑 Insights
 - **Accessories** are the leading category (~19.5K orders).  
